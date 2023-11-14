@@ -1,0 +1,51 @@
+.heading{
+    text-align: center;
+    text-decoration:none
+}
+
+.bg-color{
+    background-color: rgb(6, 42, 75);
+    border: 2px solid;
+    margin: 50vb;
+}
+
+.hello{
+    background-color: white;
+    padding: 1vh;
+}
+
+.red{
+    text-align: center;
+    font-size: 20px;
+}
+
+.green{
+    text-align: center;
+    font-size: 20px;
+}
+
+.blue{
+    text-align: center;
+    font-size: 20px;
+}
+
+.yellow{
+    text-align: center;
+    font-size: 20px;
+}
+
+.black{
+    text-align: center;
+    font-size: 20px;
+}
+
+.white{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.hall{
+    text-align: center;
+    color: blueviolet;
+}
