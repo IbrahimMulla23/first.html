@@ -1,6 +1,8 @@
 .heading{
     text-align: center;
-    text-decoration:none
+    text-decoration:none;
+    padding: 10px;
+    margin: auto;
 }
 
 .bg-color{
@@ -10,11 +12,10 @@
 }
 
 .hello{
-    background-color: white;
-    padding: 1vh;
+    background-color:darkgray;
 }
 
-.red{
+.red1{
     text-align: center;
     font-size: 20px;
 }
@@ -39,13 +40,16 @@
     font-size: 20px;
 }
 
-.white{
-    text-align: center;
-    font-size: 20px;
+.bblue{
+    font-size: 15px;
+    border: 1;
+    padding: 0px 20px 70px 0px;
+    text-align: left;
 }
-
 
 .hall{
     text-align: center;
-    color: blueviolet;
+    background-color: rgb(43, 226, 122);
+    padding: 0px 50px 5px 50px;
 }
+
